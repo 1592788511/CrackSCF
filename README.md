@@ -31,6 +31,10 @@ Authors: Hui Liu, Chen Jia, Fan Shi, Member, IEEE, Xu Cheng, Member, IEEE, Mianz
 
 This manuscript is under review.
 
+## TUT dataset
+
+The TUT dataset is available at [TUT]([1592788511/TUT: This repository provides our TUT dataset. (github.com)](https://github.com/1592788511/TUT))
+
 ## Contact
 
 Any questions, please contact the email at liuhui1109@stud.tjut.edu.cn
