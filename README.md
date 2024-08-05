@@ -33,7 +33,7 @@ This manuscript is under review.
 
 ## TUT dataset
 
-The TUT dataset is available at [TUT]([1592788511/TUT: This repository provides our TUT dataset. (github.com)](https://github.com/1592788511/TUT))
+The TUT dataset is available at [TUT](https://github.com/1592788511/TUT)
 
 ## Contact
 
